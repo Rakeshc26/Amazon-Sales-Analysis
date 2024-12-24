@@ -4,11 +4,15 @@
 The objective of this project is to gain insights into the sales performance of Amazon across its branches in Mandalay, Yangon, and Naypyitaw. By analyzing the dataset, we aim to understand factors influencing sales, customer behavior, and product performance. The key aspects to analyze include sales trends, customer segmentation, and product performance.
 ### Purpose of the Project
 The primary goal of this project is to:
+
 •	Assess product sales performance across branches.
 
 •	Identify customer trends and segmentation.
+
 •	Understand the impact of various factors like time, gender, customer type, and payment methods on sales.
+
 •	Make data-driven recommendations for sales strategy improvements.
+
 ### Dataset Description
 The dataset consists of 17 columns and 1000 rows of sales transactions
 ## Key Findings
